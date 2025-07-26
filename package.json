@@ -1,0 +1,12 @@
+{
+  "name": "backendprofessional",
+  "version": "1.0.0",
+  "description": "a practice to setup the professional backend ",
+  "license": "ISC",
+  "author": "Abhinav Jain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
